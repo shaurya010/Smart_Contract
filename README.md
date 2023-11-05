@@ -1,2 +1,4 @@
 # Smart_Contract
-Smart_Contract_For_Money_Transfer
+Created a smart contract in which we can transfer coin from one user to another.
+<br>
+Tool used: Solidity, Remix IDE.
